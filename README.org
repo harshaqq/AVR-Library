@@ -1,0 +1,9 @@
+* Library for AVR
+* Tools
+** Compiler : AVR GCC
+** Build    : GNU Make
+** Flasher  : AVR Dude
+* Tasks
+** Updating README
+** Comments
+** CI/CD build badges
